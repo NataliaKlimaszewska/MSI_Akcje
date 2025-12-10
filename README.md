@@ -1,4 +1,0 @@
-Do zrobienia:
--dokumentacja (zaczęte)
--algorytm 
--zmienic wygląd (zaczęte)
